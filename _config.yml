@@ -1,4 +1,4 @@
-baseurl: '/cepels-haus'
+baseurl: '/cepels.github.io'
 permalink: pretty
 title: 'Christine Cepelak'
 
@@ -23,14 +23,9 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "services"
+      type: "work"
     values:
-      layout: "service"
-  - scope:
-      path: ""
-      type: "team"
-    values:
-      layout: "team"
+      layout: "work"
 
 sass:
   style: compressed # possible values: nested expanded compact compressed
