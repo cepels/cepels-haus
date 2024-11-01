@@ -1,6 +1,6 @@
-baseurl: '/'
+baseurl: '/cepels-haus'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Christine Cepelak'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
